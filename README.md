@@ -20,12 +20,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@OR-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/)
 [![TikTok](https://img.shields.io/badge/TikTok-@OR-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/)
 -->
-[![Facebook](https://img.shields.io/badge/Facebook-@OR-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-@OR-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-@OR-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/oommaar21/)
+[![Instagram](https://img.shields.io/badge/Instagram-@OR-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ommaarr21/#)
 </br>
 [![Link](https://img.shields.io/badge/Links-OR-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://oommaarr2202)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/)
-[![Web](https://img.shields.io/badge/Web-OR-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ommmaaarr332.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ommaarr21/)
+[![Web](https://img.shields.io/badge/Web-OR-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://[ommmaaarr332.com](https://www.linkedin.com/in/ommaarr21/))
 
 
 ## Contacto:
