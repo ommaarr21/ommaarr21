@@ -1,4 +1,4 @@
-# { ![https://github.com/ommaarr21/](https://github.com/ommaarr21/) }   Hola, mi nombre es Ommaarr21 👋
+# { ![https://github.com/ommaarr21/](https://github.com/ommaarr21/ommaarr21/blob/main/or_emote.png) }   Hola, mi nombre es Ommaarr21 👋
 
  Soy ingeniero en computacion (IC). </br>
  Profesional con sólidos conocimientos, habilidades y destrezas en ciencia de la computación y sus tecnologías asociadas.
